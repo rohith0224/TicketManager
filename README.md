@@ -25,8 +25,7 @@ This project implements a ticket booking system using Ethereum smart contracts a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/srimurarid/csci_6221.git
-   cd csci_6221
+   https://github.com/Srimurari14/TicketManager.git
 2. Install dependencies:
     ```npm install```
 3. Start a local Ethereum network using Hardhat:
