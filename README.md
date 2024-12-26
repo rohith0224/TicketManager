@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CSCI 6221 - SOLIDITY - Project: Ticket Booking System on Ethereum Blockchain
 
 ## Description
