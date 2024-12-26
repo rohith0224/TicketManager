@@ -37,10 +37,3 @@ This project implements a ticket booking system using Ethereum smart contracts a
 5. Run the React app:
     ```npm start```
 6. Open MetaMask, connect to the local network, and interact with the application.
-
-## Usage
-    -   Create an event: The admin can create events by specifying details such as event name, date, and ticket price.
-    -   Purchase a ticket: Users can purchase tickets by selecting a seat and paying in Ether. Each ticket is minted as an NFT.
-=======
-# TicketManager
->>>>>>> origin/main
