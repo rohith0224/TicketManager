@@ -1,4 +1,4 @@
-# CSCI 6221 - SOLIDITY - Project: Ticket Booking System on Ethereum Blockchain
+# SOLIDITY - Project: Ticket Booking System on Ethereum Blockchain
 
 ## Description
 This project implements a ticket booking system using Ethereum smart contracts and NFTs. It allows users to purchase event tickets via Ether using a decentralized application (dApp). The tickets are minted as NFTs, and users can interact with the blockchain directly through MetaMask.
